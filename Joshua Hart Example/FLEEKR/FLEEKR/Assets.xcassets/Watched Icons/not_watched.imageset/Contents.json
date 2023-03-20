@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "not_watched.pdf",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
